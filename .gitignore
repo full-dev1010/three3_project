@@ -1,0 +1,5 @@
+dist/
+node_modules/
+icn3dnpm/
+tmpdir/
+package-lock.json
